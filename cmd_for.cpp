@@ -12,3 +12,5 @@ int main() {
 
     return 0;
 }
+
+// for(início;final;passo)

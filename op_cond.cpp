@@ -23,4 +23,21 @@ int main() {
     if (n1 > n2) {
         cout << n1 << " is greater than (>) to " << n2 << endl;
     }
+
+    //Operador Ternário ((Condição) ? Verdade : Falso;):
+    (n1 > n2) ? cout << "n1 é maior que n2" : cout << "n1 NÃO é maior que n2";
+
 }
+
+/*  USANDO UM ELSE:
+        if (Condição) {
+            ...
+        } else {
+            ...
+        }           
+    USANDO UM ELSE:
+        if (Condição) {
+            ...
+        } else if (Condição) {
+            ...
+        }           */

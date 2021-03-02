@@ -1,0 +1,16 @@
+DESAFIO 1
+Dada a função f(x) = x² - 3x + 5.
+Crie um Algoritmo em C++, que tenha uma função que calcula o valor f(a), em que a é um número real informado pelo usuário.
+
+DESAFIO 2
+Crie um algortino em C++, em que o usuário informa as notas de três provas de um determinado aluno e também a média de nota da turma toda. O Algortimo deve calcular a média deste aluno e informa se sua nota é acima da média, abaixo da média ou está na média.
+
+DESAFIO 3
+Crie um algortimo em C++, que tenha uma função que calcula o fatorial de um número inteiro positivo, infomrado pelo usuário. 5! = 5 x 4 x 3 x 2 x 1 = 120
+
+DESAFIO 4
+Crie um algoritmo em C++, que calcula a potência B**E, em que o suário informa um número real B e um número natural E. Nesse algortimo, sempre que é informado o resultado da potência, é perguntado ao usuário, se este deseja calcular outra potência. (SEM USAR pow()!)
+
+DESAFIO 5
+Em um programa de Moradia Popular, somente pessoas maiores de 21 anos e com renda abaixo de R$ 1200,00 podem participar.
+Crie um algortimo em C++, em que o usuário informa sua idade e sua renda, e é informado se ele pode ou não participar desse programa.
