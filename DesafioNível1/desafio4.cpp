@@ -3,7 +3,28 @@
 using namespace std;
 
 int main() {
-    
+    system("CLS");
+
+    float b, r;
+    int e;
+
+    cout << "DIGITE A BASE: " << endl;
+    cin >> b;
+    cout << "DIGITE O EXPOENTE: " << endl;
+    cin >> e;
+    r = b;
+    if (e > 0) {
+        for (int c = 1; c < e; c++) {
+        r = r * b;
+        }
+        cout << "RESULTADO: " << r << endl;
+    } else if (e == 0){
+        r = 1;
+        cout << "RESULTADO: " << r << endl;
+    } else {
+        cout << "NAO E POSSIVEL CALCULAR COM EXPOENTE NEGATIVO." << endl;
+    }
+
     return 0;
 }
 
